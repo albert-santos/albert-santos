@@ -1,5 +1,6 @@
 - 👨🏻‍💻 Atualmente trabalho com: Machine Learning | Python | Network Simulator (NS-3)
 - 📚 Estudando: Clustering com python | Flutter | Network Simulator (NS-3)
+- 👨🏻‍🎓 Meu Lattes: http://lattes.cnpq.br/2750978494665970
 
 <div align="center">
   <a href="https://github.com/albert-santos">
@@ -20,5 +21,4 @@
   
 <div>
   <a href="https://www.linkedin.com/in/albert-ecds" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://medium.com/@alberteinsteincds" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>  
 </div>
