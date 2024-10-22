@@ -1,5 +1,7 @@
-- 👨🏻‍💻 Atualmente trabalho com: Machine Learning | Python | Network Simulator (NS-3)
-- 📚 Estudando: Clustering com python | Flutter | Network Simulator (NS-3)
+# Olá, eu sou Albert Santos 🎯
+
+Trabalho com ciência de dados desde 2020, aplicando técnicas de Análise de Dados, Machine Learning, Deep Learning e Visualização de Dados para resolver problemas complexos, especialmente nas áreas de Telecomunicações, monitoramento ambiental e dados médicos. Possuo graduação em Engenharia da Computação pela Universidade Federal do Pará (UFPA), Mestrado em Computação Aplicada pelo Programa de Pós-Graduação em Engenharia Elétrica da UFPA e atualmente estou cursando Doutorado, com pesquisa focada em modelos preditivos e análise de dados aplicados ao 6G em colaboração com a Ericsson.
+
 - 👨🏻‍🎓 Meu Lattes: http://lattes.cnpq.br/2750978494665970
 
 <div align="center">
